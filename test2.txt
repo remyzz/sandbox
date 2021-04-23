@@ -2,3 +2,4 @@ Test2 file
 Adding a line
 add a line
 add a line
+add a line
