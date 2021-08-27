@@ -1,0 +1,21 @@
+(base) RemyMBP2018:test rzimmerm$ ssh-keygen -t ed25519 -C "logixtra@gmail.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/rzimmerm/.ssh/id_ed25519): /Users/rzimmerm/.ssh/id_logixtra
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/rzimmerm/.ssh/id_logixtra.
+Your public key has been saved in /Users/rzimmerm/.ssh/id_logixtra.pub.
+The key fingerprint is:
+SHA256:EYtzrqh/ci1yOwjxDDjmWPexrc0RgUvDtL7LzYJM4uI logixtra@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|     o...        |
+|      =o.o       |
+| .   .+o+.       |
+|o.+ ..o+..       |
+|+o * ..+S.       |
+|..o +.ooo        |
+| . =.oo= .       |
+|. ..*.O++        |
+|.E...*+=o        |
++----[SHA256]-----+
