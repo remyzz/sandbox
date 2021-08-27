@@ -1,3 +1,4 @@
 Test 3 file
 add a line
 add a line
+add a line
